@@ -1,8 +1,8 @@
-Big Bird King 作业
+1. 笔记中记录了课程中的内容，以及自己对知识点的理解
 
-提交方式参考 https://blog.csdn.net/excelNo1/article/details/120533970
+2. 作业答案源码中包含了每周的作业答案
 
-
+3. 作业要求如下
 【第一周作业】
 
 配置Python编程环境，熟悉python编程基础知识
